@@ -1,0 +1,12 @@
+[submodule "jobnet-config-server"]
+	path = jobnet-config-server
+	url = https://github.com/ArialNguyen/jobnet-config-server.git
+[submodule "jobnet-fe"]
+	path = jobnet-fe
+	url = https://github.com/ArialNguyen/jobnet-fe.git
+[submodule "jobnet-chatbot"]
+	path = jobnet-chatbot
+	url = https://github.com/ArialNguyen/jobnet-chatbot.git
+[submodule "jobnet-be"]
+	path = jobnet-be
+	url = https://github.com/ArialNguyen/jobnet-be.git
