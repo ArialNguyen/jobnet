@@ -4,9 +4,9 @@
 [submodule "jobnet-fe"]
 	path = jobnet-fe
 	url = https://github.com/ArialNguyen/jobnet-fe.git
-[submodule "jobnet-chatbot"]
-	path = jobnet-chatbot
-	url = https://github.com/ArialNguyen/jobnet-chatbot.git
 [submodule "jobnet-be"]
 	path = jobnet-be
 	url = https://github.com/ArialNguyen/jobnet-be.git
+[submodule "jobnet-chatbott"]
+	path = jobnet-chatbott
+	url = https://github.com/ArialNguyen/jobnet-chatbott.git
