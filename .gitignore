@@ -1,2 +1,4 @@
 /data
 /jobnet-ipj-scraper
+/performance/.venv/
+/.vscode
